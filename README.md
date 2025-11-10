@@ -93,4 +93,4 @@ La imagen detalla la tercera forma normal: `movies` como tabla central, dimensio
 
 ---
 
-Con estos pasos puedes recrear la base en tu entorno local o en Supabase, ejecutar el EDA y responder las consultas pedidas usando los scripts ya disponibles. Cualquier ampliación (nuevos reportes, más plataformas) puede encadenarse reutilizando los módulos de `db/` y `functions/`.
+Con estos pasos puedes recrear la base en tu entorno local o en Supabase, ejecutar el EDA y responder las consultas pedidas usando los scripts ya disponibles.
