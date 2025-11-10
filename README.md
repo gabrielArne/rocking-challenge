@@ -1,6 +1,6 @@
 # Rocking Challenge
 
-Este repositorio automatiza la descarga de los catálogos de Disney+ y Netflix, el análisis exploratorio (EDA), la normalización del dataset y la carga en una base PostgreSQL/Supabase. A continuación se describe el flujo completo.
+Repo del desafio rocking data. Se automatiza la descarga de los catálogos de Disney+ y Netflix, el análisis exploratorio (EDA), la normalización del dataset y la carga en una base PostgreSQL/Supabase. A continuación se describe el flujo completo.
 
 ---
 
